@@ -12,14 +12,14 @@ Projeto desenvolvido para a aula de Programação Orientada a Objetos, com o obj
 
 > Dada duas classes:
 
-<code>Classe Cliente{  
-int idCliente;  
-String nomeCliente;
+<code>Classe Client{  
+int idClient;  
+String nameClient;
 }  
-Classe Conta {  
-long numeroConta;  
-Cliente cliente;  
-double saldo;
+Classe Account {  
+long numberAccount;  
+Cliente client;  
+double balance;
 }
 </code>
 
